@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '55982'
     url: http://www.gutenberg.org/2009/agents/55982
     wikipedia: https://en.wikipedia.org/wiki/Bayle_St._John
+covers:
+- cover_type: archival
+  image_path: 70889-h/images/cover.jpg
 creator:
   author:
     agent_name: Tūnisī, Muḥammad ibn ʻUmar
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55980
 description: '" ... abridgment of Dr. Perron''s French version of the narrative, written
   in Arabic, by Sheikh Mohammed of Tunis"--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70889#Travels-of-an-Arab-merchant-in-Soudan-the-Black-Kingdoms-of-Central-Africa
 gutenberg_issued: '2023-05-31'
 identifiers:
   gutenberg: '70889'
